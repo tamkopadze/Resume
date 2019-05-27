@@ -2494,9 +2494,14 @@ body {
        SERVICES
     ==============
 */
+.col-centered{
+  margin-left: 400px;
+}
+
 .mh-service .mh-service-item {
   padding: 20px; }
   .mh-service .mh-service-item .fa {
+
     font-size: 30px;
     margin-bottom: 20px;
     margin-top: 16px; }
